@@ -15,5 +15,5 @@ Realizar ejercicios presentes en el libro de Principios de Circuitos Eléctricos
 2.MARCO TEÓRICO (RESUMEN)
 
 [![Abstract-Mind-Map-Connection-Diagram-Brainstorm.png](https://i.postimg.cc/9fPhjDb3/Abstract-Mind-Map-Connection-Diagram-Brainstorm.png)](https://postimg.cc/sB28YDbK)
-[![imagen-2022-06-02-213538404.png](https://i.postimg.cc/kXtMpX0C/imagen-2022-06-02-213538404.png)](https://postimg.cc/gnmPwdct)
 
+[![imagen-2022-06-02-213538404.png](https://i.postimg.cc/kXtMpX0C/imagen-2022-06-02-213538404.png)](https://postimg.cc/gnmPwdct)
