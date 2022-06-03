@@ -15,5 +15,5 @@ Realizar ejercicios presentes en el libro de Principios de Circuitos Eléctricos
 2.MARCO TEÓRICO (RESUMEN)
 
 [![Abstract-Mind-Map-Connection-Diagram-Brainstorm.png](https://i.postimg.cc/9fPhjDb3/Abstract-Mind-Map-Connection-Diagram-Brainstorm.png)](https://postimg.cc/sB28YDbK)
-
 [![Mapa-Mental-Gesti-n-del-Tiempo-Minimalista-Naranja.png](https://i.postimg.cc/Vk8wZ999/Mapa-Mental-Gesti-n-del-Tiempo-Minimalista-Naranja.png)](https://postimg.cc/xctBcz4q)
+
