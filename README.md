@@ -38,6 +38,7 @@ Comprender los temas tres y cuatro del libro Principios de Circuitos Eléctricos
 5.CONCLUSIONES 
 
 • La ley de Ohm es una ley fundamental para entender la relacion que existe entre voltaje, intensidad y resistencia, nos permite encontrar cualquiera de estas tres magnitudes si se posee el conocimiento de dos de estas.
+
 • La potencia es la cantidad de energia usada en un tiempo determinado, en circuitos eléctricos la potencia tiene diferentes aplicaciones que van desde la potenciaque puede disipar una resistencia antes de quemarse, la potencia que consume un circuito hasta la potencia que puede entregar una bateria en su tiempo de vida, asi mismo nos permite cualcular la eficiencia de una fuente de voltahe y su consumo. 
 
 6.BIBLIOGRAFÍA
