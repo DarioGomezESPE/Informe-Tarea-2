@@ -37,7 +37,8 @@ Comprender los temas tres y cuatro del libro Principios de Circuitos Eléctricos
 
 5.CONCLUSIONES 
 
-• Las bases para el estudio de los fundamentos de circuitos eléctricos son la compresión de los numeros grandes y pequeños a través de la notacion de ingenieria que permite representar valores de un manera eficiente con el uso de prefijos, asi mismo lo fundamental es comprender los conceptos voltaje, amperaje y resistencia y como se relacionan con los electrones. Posteriormente es necesario comprender como esta compuesto un circuito eléctrico, su forma de representar y como las anteriores magnitudes actuan sobre el circuito.
+• La ley de Ohm es una ley fundamental para entender la relacion que existe entre voltaje, intensidad y resistencia, nos permite encontrar cualquiera de estas tres magnitudes si se posee el conocimiento de dos de estas.
+• La potencia es la cantidad de energia usada en un tiempo determinado, en circuitos eléctricos la potencia tiene diferentes aplicaciones que van desde la potenciaque puede disipar una resistencia antes de quemarse, la potencia que consume un circuito hasta la potencia que puede entregar una bateria en su tiempo de vida, asi mismo nos permite cualcular la eficiencia de una fuente de voltahe y su consumo. 
 
 6.BIBLIOGRAFÍA
 
