@@ -8,12 +8,14 @@ Comprender los dos primeros temas del libro Principios de Circuitos Eléctricos-
 
 • Objetivos específicos
 
-Leer y extraer la información mas importante de los dos primeros temas.
-Sintetizar en un mapa mental la información relevante extraída posteriormente en la lectura.
-Realizar ejercicios presentes en el libro de Principios de Circuitos Eléctricos - Floyd
+1. Leer y extraer la información mas importante de los dos primeros temas.
+2. Sintetizar en un mapa mental la información relevante extraída posteriormente en la lectura.
+3. Realizar ejercicios presentes en el libro de Principios de Circuitos Eléctricos - Floyd
 
 2.MARCO TEÓRICO (RESUMEN)
 
 [![Abstract-Mind-Map-Connection-Diagram-Brainstorm.png](https://i.postimg.cc/9fPhjDb3/Abstract-Mind-Map-Connection-Diagram-Brainstorm.png)](https://postimg.cc/sB28YDbK)
 
 [![imagen-2022-06-02-213538404.png](https://i.postimg.cc/kXtMpX0C/imagen-2022-06-02-213538404.png)](https://postimg.cc/gnmPwdct)
+
+3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
